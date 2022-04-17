@@ -1,4 +1,4 @@
-# Some good tips about Shadowrocket and V2rayNG
+# Block ADS with Shadowrocket and V2rayNG
 # Active-InApp
 
 ## Block ADS for Shadowrocket
