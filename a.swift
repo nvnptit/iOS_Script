@@ -5,3 +5,4 @@ extension RichTextController : WKNavigationDelegate {
         webView.evaluateJavaScript(jsString, completionHandler: nil)
     }
 }
+https://stackoverflow.com/questions/69830561/wkwebview-dark-and-light-mode-with-dynamic-url-in-swift-5
