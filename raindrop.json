@@ -1,0 +1,25 @@
+{
+    "result": true,
+    "user": {
+        "tfa": {
+            "enabled": false
+        },
+        "files": {
+            "used": 0,
+            "size": 10000000000,
+            "lastCheckPoint": "2022-12-21T02:27:35.890Z"
+        },
+        "_id": 2082625,
+        "avatar": "",
+        "pro": true,
+        "name": "VIP",
+        "fullName": "VIP_RainDrop_IO",
+        "email": "raindrop@github.com",
+        "groups": [],
+        "lastAction": "2022-12-21T02:27:35.890Z",
+        "lastVisit": "2024-04-29T11:50:20.630Z",
+        "registered": "2022-12-21T02:27:35.891Z",
+        "lastUpdate": "2024-04-29T11:50:20.630Z",
+        "password": true
+    }
+}
